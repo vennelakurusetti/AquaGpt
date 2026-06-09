@@ -1,0 +1,7 @@
+Year,No of Station,Depth to Water Level (mbgl) - Min,Depth to Water Level (mbgl) - Max,Depth to Water Level (mbgl) - 0 - 2 - No.,Depth to Water Level (mbgl) - 0 - 2 - %,Depth to Water Level (mbgl) - 2 - 5 - No.,Depth to Water Level (mbgl) - 2 - 5 - %,Depth to Water Level (mbgl) - 5 - 10 - No.,Depth to Water Level (mbgl) - 5 - 10 - %,Depth to Water Level (mbgl) - 10 - 20 - No.,Depth to Water Level (mbgl) - 10 - 20 - %,Depth to Water Level (mbgl) - 20 - 40 - No.,Depth to Water Level (mbgl) - 20 - 40 - %,Depth to Water Level (mbgl) - > 40 - No.,Depth to Water Level (mbgl) - > 40 - %
+May-17,10,3.35,49.5,0,0,1,10,3,30,3,30,1,10,2,20
+May-18,11,7.76,82.6,0,0,0,0,2,18.18,1,9.09,1,9.09,7,63.64
+May-19,22,2.51,103.4,0,0,3,13.64,9,40.91,3,13.64,2,9.09,5,22.73
+Nov-20,23,2.22,67.42,0,0,9,39.13,8,34.78,1,4.35,2,8.7,3,13.04
+Nov-21,20,0.1,55.3,10,50,1,5,2,10,0,0,2,10,5,25
+May-22,18,1.78,57.45,2,11.11,7,38.89,3,16.67,0,0,2,11.11,4,22.22
